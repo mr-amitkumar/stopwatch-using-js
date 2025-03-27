@@ -22,7 +22,7 @@ body {
   text-shadow: 0 8px 10px grey;
 
   @media (max-width: 768px) {
-    font-size: 2.2rem;
+    font-size: 3rem;
   }
 }
 
